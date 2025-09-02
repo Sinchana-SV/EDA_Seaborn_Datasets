@@ -1,6 +1,7 @@
-# Exploratory Data Analysis (EDA) using Seaborn Datasets
+## 📊 Data Science Explorations with Seaborn Datasets
 
-This repository contains EDA projects performed on popular Seaborn datasets using **Python, Pandas, Matplotlib, and Seaborn**.
+Welcome to my **Data Science Playground 🎉**
+This repository contains my **exploratory data analysis (EDA), visualizations, and insights** using Seaborn’s classic datasets.
 
 ---
 
